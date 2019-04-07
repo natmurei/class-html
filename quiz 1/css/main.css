@@ -1,0 +1,22 @@
+body{
+	background-color:red;
+}
+
+h1 {color: purple;
+	font-size:40px;
+	text-align:center;
+}
+
+.panel{
+	color: black; 
+	background-color: pink;
+	width: text-align center;
+}
+
+
+h1 { background-color: blue;
+font-family: verdana;
+font-size: 300%;}
+
+
+
