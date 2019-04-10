@@ -1,0 +1,20 @@
+body{
+	background-image:url("../img/kuku.gif"),url("../img/husky.png"),url("../img/l2.jpg"); 
+	background-repeat: no-repeat,no-repeat;
+	background-size:20%, 20%,cover;
+   
+	background-position: 5%  5% ,right 30%,center;
+	background-attachment: fixed;
+}
+.content {
+	width:600px;
+	background-color: rgba(0,0,0,0.5);
+	color: #ffff;
+	padding: 30px;
+	min-height: 500px;
+	margin: 0 auto;
+}
+
+
+
+
